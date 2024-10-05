@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo"  />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/your-profile" target="_blank">
+  <a href="https://leetcode.com/u/kuruvapavani/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FFA116&logoColor=white&labelColor=&style=plastic" height="40" alt="leetcode logo" />
 </a>
 
