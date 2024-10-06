@@ -86,5 +86,9 @@
   <a href="https://leetcode.com/u/kuruvapavani/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FFA116&logoColor=white&labelColor=&style=plastic" height="40" alt="leetcode logo" />
 </a>
-
+  &nbsp;&nbsp;&nbsp;
+<a href="mailto:pavanikuruva2104@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="gmail logo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 </div>
