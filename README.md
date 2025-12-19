@@ -81,6 +81,6 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/kuruvapavani/kuruvapavani/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/kuruvapavani/kuruvapavani/098e3515ff2b4ff233d565b634118588b687f53f/snake.svg" alt="Snake animation" />
 
 <p align="center"><i>Consistency beats motivation.</i></p>
