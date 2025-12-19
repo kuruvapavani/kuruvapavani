@@ -1,62 +1,86 @@
 <h1 align="center">👋 Hi, I'm Kuruva Pavani</h1>
-<h3 align="center" style="font-style: italic; line-height: 1.6;">
-  Passionate Web Developer from Andhra Pradesh 🌊 <br>
-  <span style="color: #4CAF50; font-weight: bold;">MERN Stack Enthusiast</span> | Lifelong Learner | Dynamic Creator
+
+<h3 align="center" style="line-height: 1.6;">
+  Web Developer from Andhra Pradesh 🌊 <br>
+  <b>MERN Stack Developer</b> · DSA in Java · Consistent Learner
 </h3>
 
+
 ---
 
-### **GitHub Stats**
+## 🚀 About Me
+- MERN stack web developer building responsive web applications  
+- Actively practicing **Data Structures & Algorithms using Java**  
+- Strong focus on problem-solving and clean logic  
+- Preparing for coding interviews and competitive programming  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuruvapavani&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuruvapavani&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuruvapavani&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuruvapavani&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true" height="180" />
 </div>
 
 ---
 
-<img align="right" height="250" src="https://media.tenor.com/kDVP49MI4MMAAAAM/moana.gif" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);" />
+<img align="right" height="230" src="https://media.tenor.com/kDVP49MI4MMAAAAM/moana.gif" />
 
-### Technologies I Work With:
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python logo" />
+### Web Development
+<div>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+</div>
+
+### DSA & Problem Solving
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
 </div>
 
 ---
 
-### Let's Connect!
+## 🧠 Currently Focused On
+- Data Structures & Algorithms (Java)
+- Arrays, Strings, Linked Lists, Trees, Graphs, DP
+- Writing optimal and readable solutions
+- Regular LeetCode practice
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kuruva-pavani-2109k" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/kuruva-pavani-2109k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="38" />
   </a>
-  <a href="https://kuruva-pavani.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=00C7B7&logoColor=white&labelColor=&style=plastic" height="40" alt="Portfolio" />
+  <a href="https://kuruva-pavani.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?logo=netlify&logoColor=white" height="38" />
   </a>
-  <a href="https://www.instagram.com/kuruvapavani_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="Instagram" />
+  <a href="https://leetcode.com/u/kuruvapavani/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" height="38" />
   </a>
-  <a href="https://leetcode.com/u/kuruvapavani/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FFA116&logoColor=white&labelColor=&style=plastic" height="40" alt="LeetCode" />
+  <a href="https://www.instagram.com/kuruvapavani_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="38" />
   </a>
-  <a href="mailto:pavanikuruva2104@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="40" alt="Gmail" />
+  <a href="mailto:pavanikuruva2104@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="38" />
   </a>
 </div>
 
 ---
 
-### Fun Element: Snake Game
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/kuruvapavani/kuruvapavani/098e3515ff2b4ff233d565b634118588b687f53f/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kuruvapavani/kuruvapavani/output/github-contribution-grid-snake.svg" />
+
+<p align="center"><i>Consistency beats motivation.</i></p>
