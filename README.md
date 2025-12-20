@@ -1,18 +1,19 @@
 <h1 align="center">👋 Hi, I'm Kuruva Pavani</h1>
 
 <h3 align="center" style="line-height: 1.6;">
-  Web Developer from Andhra Pradesh 🌊 <br>
-  <b>MERN Stack Developer</b> · DSA in Java · Consistent Learner
+  Full Stack Web Developer from Andhra Pradesh 🌊 <br>
+  <b>MERN Stack Developer</b> · DSA in Java · Problem Solver
 </h3>
-
 
 ---
 
 ## 🚀 About Me
-- MERN stack web developer building responsive web applications  
-- Actively practicing **Data Structures & Algorithms using Java**  
-- Strong focus on problem-solving and clean logic  
-- Preparing for coding interviews and competitive programming  
+
+- Full Stack Developer with hands-on experience building **scalable MERN applications**
+- Strong in **backend API development, authentication (JWT/OAuth), and database design**
+- Actively solving **200+ DSA problems using Java** (LeetCode-focused)
+- Experience with **AWS deployments (EC2, S3, CloudFront, DynamoDB)**
+- Preparing for **product-based software engineering roles**
 
 ---
 
@@ -25,9 +26,10 @@
 
 ---
 
-<img align="right" height="230" src="https://media.tenor.com/kDVP49MI4MMAAAAM/moana.gif" />
 
 ## 🛠️ Tech Stack
+
+<img align="right" height="500" src="https://media.tenor.com/kDVP49MI4MMAAAAM/moana.gif" />
 
 ### Web Development
 <div>
@@ -41,19 +43,74 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
 </div>
 
-### DSA & Problem Solving
+### Backend, Cloud & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=aws" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=postman" height="45" />
+</div>
+
+### DSA & Languages
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
 </div>
 
 ---
 
-## 🧠 Currently Focused On
-- Data Structures & Algorithms (Java)
-- Arrays, Strings, Linked Lists, Trees, Graphs, DP
-- Writing optimal and readable solutions
-- Regular LeetCode practice
+## 🧠 Data Structures & Algorithms
+
+- Solved **200+ problems on LeetCode**
+- Arrays, Strings, Hashing, Two Pointers, Sliding Window
+- Linked Lists, Stacks, Queues, Trees, Graphs
+- Basic Dynamic Programming
+- Writing **clean, optimized Java solutions** with proper complexity analysis
+
+---
+
+## 💻 Featured Projects
+
+### 🧠 Memora – Time-Locked Memory Platform (MERN)
+- Secure platform to create and unlock **time-based memory capsules**
+- JWT authentication, protected routes, capsule sharing
+- Cloudinary integration for media uploads
+- Optimized mobile performance by **removing heavy 3D assets**
+- Tech: MERN, Cloudinary, React Three Fiber, GSAP  
+🔗 https://memora-kp.vercel.app/
+
+### 🍕 Pizza Ordering & Delivery Platform (MERN + Stripe)
+- Full-stack e-commerce system with cart, checkout, and order management
+- Integrated **Stripe payments** with secure validation
+- Backend query optimization and caching for lower latency
+- Frontend lazy loading and performance optimizations  
+🔗 https://pizzacrave.vercel.app
+
+### ✍️ Multi-User Blog Platform (MERN)
+- Role-based authentication and protected APIs using JWT
+- Full CRUD functionality for posts
+- Performance improvements through component-level optimization  
+🔗 https://mern-blog-kp.vercel.app/
+
+---
+
+## 🏢 Experience
+
+### Web Development Intern — Robosmic Technologies  
+*Jun 2024 – Aug 2024*
+
+- Built responsive company portfolio using **React and GSAP**
+- Implemented login using **AWS DynamoDB**
+- Integrated AWS services (EC2, S3, CloudFront)
+- Focused on clean UI, animations, and performance
+
+### Web Development Club Coordinator — IIIT Tiruchirappalli  
+*Feb 2025 – Dec 2025*
+
+- Contributor to official institute website
+- Manage Git workflows, pull requests, and reviews
+- Mentor juniors on React fundamentals and best practices
 
 ---
 
@@ -72,7 +129,7 @@
   <a href="https://www.instagram.com/kuruvapavani_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="38" />
   </a>
-  <a href="mailto:pavanikuruva2104@gmail.com">
+  <a href="mailto:pavanikuruva2109@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="38" />
   </a>
 </div>
@@ -81,6 +138,10 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/kuruvapavani/kuruvapavani/098e3515ff2b4ff233d565b634118588b687f53f/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kuruvapavani/kuruvapavani/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/kuruvapavani/kuruvapavani/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center"><i>Consistency beats motivation.</i></p>
