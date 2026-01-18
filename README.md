@@ -11,7 +11,7 @@
 
 - Full Stack Developer with hands-on experience building **scalable MERN applications**
 - Strong in **backend API development, authentication (JWT/OAuth), and database design**
-- Actively solving **200+ DSA problems using Java** (LeetCode-focused)
+- Actively solving **350+ DSA problems using Java** (LeetCode-focused)
 - Experience with **AWS deployments (EC2, S3, CloudFront, DynamoDB)**
 - Preparing for **product-based software engineering roles**
 
@@ -20,8 +20,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuruvapavani&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuruvapavani&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kuruvapavani&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kuruvapavani&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true" height="180" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 
 ## 🧠 Data Structures & Algorithms
 
-- Solved **200+ problems on LeetCode**
+- Solved **350+ problems on LeetCode**
 - Arrays, Strings, Hashing, Two Pointers, Sliding Window
 - Linked Lists, Stacks, Queues, Trees, Graphs
 - Basic Dynamic Programming
