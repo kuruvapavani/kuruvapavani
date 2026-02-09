@@ -11,7 +11,7 @@
 
 - Full Stack Developer with hands-on experience building **scalable MERN applications**
 - Strong in **backend API development, authentication (JWT/OAuth), and database design**
-- Actively solving **350+ DSA problems using Java** (LeetCode-focused)
+- Actively solving **400+ DSA problems using Java** (LeetCode-focused)
 - Experience with **AWS deployments (EC2, S3, CloudFront, DynamoDB)**
 - Preparing for **product-based software engineering roles**
 
@@ -62,7 +62,7 @@
 
 ## 🧠 Data Structures & Algorithms
 
-- Solved **350+ problems on LeetCode**
+- Solved **400+ problems on LeetCode**
 - Arrays, Strings, Hashing, Two Pointers, Sliding Window
 - Linked Lists, Stacks, Queues, Trees, Graphs
 - Basic Dynamic Programming
@@ -120,7 +120,7 @@
   <a href="https://www.linkedin.com/in/kuruva-pavani-2109k">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="38" />
   </a>
-  <a href="https://kuruva-pavani.netlify.app/">
+  <a href="https://pavanikuruva.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?logo=netlify&logoColor=white" height="38" />
   </a>
   <a href="https://leetcode.com/u/kuruvapavani/">
